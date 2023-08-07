@@ -12,7 +12,8 @@ public class WebServiceCrud3Application {
 	public static void main(String[] args) {
 		System.out.println("This is Web Service Crud 3");
 
-		
+		System.out.println("Pranali is an Buddu girl");
+
 		System.out.println("Pranali is an intelligent girl");
 
 		System.out.println("This is web modification to pranali");
